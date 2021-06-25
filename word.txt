@@ -1,4 +1,4 @@
-밥밥밥
-밥밥밥2
-rice 
-rice2
+밥x1
+밥x3
+rice2 
+rice
